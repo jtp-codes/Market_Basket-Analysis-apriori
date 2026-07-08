@@ -44,6 +44,7 @@ mba-sql/
 │
 ├── screenshots/
 │   ├── order_items_sample.png
+│   ├── order_items_end_sample.png
 │   ├── single_item_counts.png
 │   ├── item_pairs_analysis.png
 │   ├── probability_flow_top.png
@@ -53,7 +54,6 @@ mba-sql/
 │
 ├── README.md
 ├── LICENSE
-└── .gitignore
 ```
 
 ---
@@ -322,7 +322,7 @@ FinX Institute
 https://linkedin.com/in/joeltomphilip
 
 🐙 GitHub:
-https://github.com/YOUR_USERNAME
+https://github.com/jtp-codes
 
 ---
 
