@@ -51,7 +51,7 @@ mba-sql/
 │   ├── probability_flow_bottom.png
 │   ├── final_rules_top.png
 │   └── final_rules_bottom.png
-│
+├── ER_Diagram.png
 ├── README.md
 ├── LICENSE
 ```
